@@ -176,13 +176,13 @@ Request body (application/json):
 ---
 
 ## ✅ Submission Checklist
-- [ ] Functional backend APIs
-- [ ] MongoDB data persistence
-- [ ] Error handling & validations
-- [ ] Deployed backend
-- [ ] Connected frontend
-- [ ] Clean, professional UI
-- [ ] Complete README
+- [✅] Functional backend APIs
+- [✅] MongoDB data persistence
+- [✅] Error handling & validations
+- [✅] Deployed backend
+- [✅] Connected frontend
+- [✅] Clean, professional UI
+- [✅] Complete README
 
 ---
 
