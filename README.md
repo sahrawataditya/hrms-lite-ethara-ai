@@ -8,6 +8,10 @@
 
 This repository is structured so you can run and develop each part independently and integrate them via environment variables.
 
+## 🔗 Live Links
+
+- **Frontend** - https://hrms-lite-ethara-ai.vercel.app
+- **Backend** - https://hrms-lite-ethara-ai-production.up.railway.app
 ---
 
 ## 📚 Table of Contents
@@ -172,7 +176,7 @@ Request body (application/json):
 
 ## 🌍 Deployment
 - Deploy the backend to Render (or any host supporting FastAPI).
-- Deploy the frontend to Vercel/Netlify and point `NEXT_PUBLIC_BASE_URL` to the deployed backend URL.
+- Deploy the frontend to Vercel/Netlify and point `NEXT_PUBLIC_BASE_URL` and `BASE_URL` to the deployed backend URL.
 
 ---
 
