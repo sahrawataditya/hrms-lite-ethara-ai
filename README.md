@@ -91,6 +91,7 @@ Create a `.env.local` in `client/` with:
 
 ```env
 NEXT_PUBLIC_BASE_URL=http://localhost:8000
+BASE_URL=http://localhost:8000
 ```
 
 ### ▶️ Run locally
